@@ -7,6 +7,7 @@
     default-expand-all
     node-key="id"
     highlight-current
+    check-strictly
     :props="defaultProps"
   />
 
